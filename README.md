@@ -16,7 +16,7 @@
 
 <p align="center">
 
-**Development**
+## Development
 
 This OS Is In Development. We are beginning testing for App-DOR OS Soon. :P
 
@@ -30,3 +30,4 @@ Boot Is Bugged A Little With Booting, etc.
 ## License
 
 App-DOR OS uses NO licenses, Meaning you can not reproduce, distribute, or create derivative works. As this is in Development.
+
