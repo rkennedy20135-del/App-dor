@@ -14,12 +14,16 @@
 - Large selection of games
 - Uses Shadow V6 For The Base OS
 
+<p align="center">
 **Development**
 
 This OS Is In Development. We are beginning testing for App-DOR OS Soon. :P
 
+<p align="center">
 ## Known Issues
 Boot Is Bugged A Little With Booting, etc.
 
+<p align="center">
 ## License
+
 App-DOR OS uses NO licenses, Meaning you can not reproduce, distribute, or create derivative works. As this is in Development.
